@@ -2,7 +2,7 @@
 using namespace std;
 
 // SC := O(n)
-// TC := O(n +2*E) //For every node we are traversg its all adj nodes....Summmation  of degress = 2E.
+// TC := O(n +2*E) //For every node we are traversing its all adj nodes....Summmation  of degress = 2E.
 
 class Solution
 {
