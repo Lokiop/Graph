@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// SC = O(n * m) ...(Visited array and queue)
+// TC = O(n * m)
+
 int orangesRotting(vector<vector<int>> &grid)
 {
     // Code here
