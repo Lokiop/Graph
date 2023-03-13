@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// SC := O(n)
-// TC := O(n) + O(v + 2*E)
+// SC := O(n * m)
+// TC := O(n * m)
 
 class Solution
 {
